@@ -14,3 +14,5 @@
 | CLEO 5               | Miran                | 5.1.0         | https://github.com/cleolibrary/CLEO5                        | New scripting features                         |
 | Open Limit Adjuster  |                      | 1.5.9         | https://github.com/GTAmodding/III.VC.SA.LimitAdjuster       | Change hardcoded game limits                   |
 | Limit Adjuster       | fastman92            |               | https://gtaforums.com/topic/733982-fastman92-limit-adjuster | Change hardcoded game limits                   |
+| ASI Loader           | Silent               | 1.5           |                                                             | Load ASI files on game start                   |
+| ASI Loader           | ThirteenAG           | 8.7.0         | https://github.com/ThirteenAG/Ultimate-ASI-Loader           | Load ASI files on game start                   |
